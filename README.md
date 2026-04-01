@@ -15,12 +15,11 @@ This official release is available for:
 * **Windows (x64)**
 
 *Note: Dedicated builds for macOS and Linux ecosystems are currently in development.*
-Download Now: https://github.com/RdivxeAI/AutoPaper/releases/tag/v1.0.0
 
 ## Installation Instructions
 1.  Download the **`AutoPaper.exe`** file from the **Assets** section below.
 2.  Run the application to begin your research journey.
-3.  *Note:* A stable internet connection is required for AI-assisted features.
+3.  *Note:* A stable internet connection is required for AI-assisted features.  
 
 ---
 **Intellectual Property © Amr Tweg**
